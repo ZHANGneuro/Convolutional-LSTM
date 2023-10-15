@@ -1,8 +1,8 @@
 # Convolutional-LSTM
 
-The model was built to simulate the human behavior in a psychophysical task, which requires to remember the temporal sequence of stimulus location on the screen.
+The model was built to simulate the human behavior collected from a psychophysical task, which requires participants to remember the temporal relations of a series of stimulus location on the screen.
 
-Our aim was to modulate the hidden size of LSTM (memory space) and the kernel size of CNN (visual action space) in the prediction performance of model.
+Our aim in building this model was to examine how the task performance is influenced through modulating the hidden size of LSTM (memory space) and the kernel size of CNN (visual action space), and compared the internal representation of model with fMRI data.
 
 <br /><br />
 
