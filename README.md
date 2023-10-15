@@ -2,14 +2,14 @@
 model for predicting the sequence of visual stimuli
 
 
-![alt tag](https://github.com/ZHANGneuro/NStitlebar_with_item/blob/master/screenshot.png)
+![alt tag](https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/model%20architecture.png)
 <br /><br />
 
 
 
 A video paradigm is shown below.
 <p align="center"> 
-<img src="https://github.com/ZHANGneuro/Relation_memory_task_3D/blob/main/video-example720.gif">
+<img src="https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/convolutional_lstm_demo.gif">
 </p>
 <br /> <br /> 
 
