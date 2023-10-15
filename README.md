@@ -2,7 +2,7 @@
 model for predicting the sequence of visual stimuli
 
 
-![alt tag](https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/model%20architecture.png | width=100)
+![alt tag](https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/model%20architecture.png)
 <br /><br />
 
 
