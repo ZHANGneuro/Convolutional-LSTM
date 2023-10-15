@@ -2,10 +2,11 @@
 model for predicting the sequence of visual stimuli
 
 
+<p align="center">
+<img src='https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/model%20architecture.png' width='500'>
 
-<img align="center" src='https://github.com/ZHANGneuro/Convolutional-LSTM/blob/main/model%20architecture.png' width='500'>
+</p>
 <br /><br />
-
 
 A video paradigm is shown below.
 <p align="center"> 
